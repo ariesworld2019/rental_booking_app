@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/rental_booking_app/static/css/main.7854d5a5.css",
+    "main.js": "/rental_booking_app/static/js/main.87abbdf8.js",
+    "static/media/backimg2.jpg": "/rental_booking_app/static/media/backimg2.007312d3fc9d86d7041f.jpg",
+    "index.html": "/rental_booking_app/index.html",
+    "main.7854d5a5.css.map": "/rental_booking_app/static/css/main.7854d5a5.css.map",
+    "main.87abbdf8.js.map": "/rental_booking_app/static/js/main.87abbdf8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7854d5a5.css",
+    "static/js/main.87abbdf8.js"
+  ]
+}
